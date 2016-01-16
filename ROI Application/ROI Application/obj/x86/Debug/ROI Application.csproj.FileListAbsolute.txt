@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\bin\Debug\ROI Application.exe
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\bin\Debug\ROI Application.pdb
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\obj\x86\Debug\ROI_Application.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\obj\x86\Debug\ROI_Application.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\obj\x86\Debug\ROI Application.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\obj\x86\Debug\ROI Application.exe
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\obj\x86\Debug\ROI Application.pdb
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\bin\Debug\ROI Application.exe.manifest
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\bin\Debug\ROI Application.application
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\obj\x86\Debug\ROI Application.exe.manifest
+c:\users\user\documents\visual studio 2010\Projects\ROI Application\ROI Application\obj\x86\Debug\ROI Application.application
